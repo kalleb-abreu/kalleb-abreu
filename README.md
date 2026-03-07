@@ -1,4 +1,5 @@
-# I'm Kalleb a Data Scientist from Brazil!
+<!---# I'm Kalleb a Data Scientist from Brazil!
+-->
 
 <div> 
   <a href="https://www.linkedin.com/in/kalleb-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -7,19 +8,23 @@
 
 ### Languages
 
+<!---
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+-->
 
 ### Technologies
 
+<!---
 ![scikitlearn](https://img.shields.io/badge/-scikitlearn-000?&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+-->
 
-### Data Science Projects
+### Projects
 
 <!---
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
